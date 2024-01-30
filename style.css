@@ -1,0 +1,98 @@
+body{
+	background-image: url(https://getwallpapers.com/wallpaper/full/e/7/e/1086049-cool-simple-backgrounds-2560x1440-for-android-40.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	max-height: 1700px;
+}
+.box1{
+	background-color: white;
+	height: 440px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: 951px;
+    margin-top: 126px;
+	width: 447px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 0px;
+}
+.box2{
+	background-color: white;
+	height: 440px;
+	margin-bottom: 70px;
+    margin-left: 953px;
+	margin-right: auto;
+    margin-top: -440px;
+    width: 451px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 50px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 50px;
+}
+.shoe{
+	color: royalblue;
+	font-size: 30px;
+    margin-bottom: 12px;
+    margin-top: 11px;
+}
+.nike{
+	color: black;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: -35px;
+
+}
+.money{
+	color: royalblue;
+    font-size: 35px;
+    margin-top: 45px;
+    margin-bottom: px;
+}
+.lorem{
+	color: black;
+    font-size: 19px;
+    margin-top: -28px;
+}
+.button{
+	color: floralwhite;
+	background-color: darkblue;
+    width: 210px;
+    height: 60px;
+    margin-left: 60px;
+    text-decoration: none;
+    border: none;
+    margin-top: 14px;
+    border-radius: 10px;
+    margin-top: -5px;
+
+}
+.img{
+	border-radius: 10px;
+	width: 350px;
+	height: 270px;
+    margin-left: 37px;
+    margin-top: 30px;
+}
+
+.size{
+	color: royalblue;
+    font-size: 23px;
+    margin-left: 37px;
+    margin-top: 4px;
+}
+.table{
+	margin-left: 42px;
+	color: royalblue;
+	font-size: 20px;
+	letter-spacing: 3px;
+	border-color: black;
+    margin-top: -17px;
+    border-left: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    border-bottom: 0px;
+}
+.box3{
+	padding: 10px;
+}
